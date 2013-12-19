@@ -1,3 +1,4 @@
 name: Site of Vengeance
 markdown: redcarpet
 pygments: true
+baseurl: /BLOG
